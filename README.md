@@ -17,7 +17,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/hola-aryan/hola-aryan/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/hola-aryan/hola-aryan/snake.svg" alt="Snake animation" />
 
 ###
 
