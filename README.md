@@ -17,8 +17,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/hola-aryan/hola-aryan/snake.yml" alt="Snake animation" />
-
 ###
 
 <div align="center">
