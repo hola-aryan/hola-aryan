@@ -18,11 +18,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hola-aryan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-
 <br clear="both">
-
-###
 
 <div align="center">
   <a href="https://open.spotify.com/user/zrja4jm55ha6x72cypaafm6xc">
@@ -30,10 +26,35 @@
   </a>
 </div>
 
-###
-
 <div align="center">
+  <p>Github Profile Views</p>
   <img src="https://profile-counter.glitch.me/hola-aryan/count.svg?"  />
 </div>
 
-###
+<br/>
+<br/>
+<div align="center">
+<details > 
+  <summary><h2>📊 Stats and Activity</h2></summary>
+
+  <p>
+    <h4>🔥 Streak Stats</h4>
+    <a href="https://github.com/hola-aryan/github-readme-streak-stats">
+      <img src="https://streak-stats.demolab.com/?user=hola-aryan&theme=monokai-metallian&hide_border=true" alt="hola-aryan's streak" />
+    </a>
+  </p>
+
+  <br/>
+  <h4>💻 GitHub Profile Stats</h4>
+  
+  <a href="https://github.com/hola-aryan/github-readme-activity-graph"><img alt="hola-aryan's Activity Graph" style="width: 750px;"  src="https://github-readme-activity-graph.vercel.app/graph/?username=hola-aryan&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+  <br/>
+  <br/>
+  <b>::: Promise :::</b><br/> Soon this graph will be up also. This graph will go uppppp to the moon
+  <br/>
+  <a href="https://github.com/hola-aryan/github-readme-activity-graph"><img style="height: 400px; width: 750px;" alt="hola-aryan's Activity Graph" src="https://api.star-history.com/svg?repos=hola-aryan/README&type=Date" /></a>
+  
+</details>
+
+</div>
