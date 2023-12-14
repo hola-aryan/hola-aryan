@@ -27,7 +27,7 @@
 </div>
 
 <div align="center">
-  <p>Github Profile Views</p>
+  <h4>Github Profile Views</h4>
   <img src="https://profile-counter.glitch.me/hola-aryan/count.svg?"  />
 </div>
 
