@@ -32,7 +32,6 @@
 </div>
 
 <br/>
-<br/>
 <div align="center">
 <details > 
   <summary><h2>📊 Stats and Activity</h2></summary>
